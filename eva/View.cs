@@ -10,9 +10,9 @@ namespace eva
 
     class View 
     {
+        
         public bool logEvents = false;
         private EvaFile evaFile;
-        public NStack.ustring[] textStream;
 
         private TextView textInputField;
         /* 
