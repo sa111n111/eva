@@ -1,5 +1,5 @@
 # Eva - The esoteric text editor
 <br>
-## Showcase:
+##Showcase:
 
 ![showcase](assets/showcase.png)
